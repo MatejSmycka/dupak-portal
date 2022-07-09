@@ -13,6 +13,7 @@ html{
   position: fixed;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 h1{
   font-size:2em;margin:.67em 0
