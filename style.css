@@ -1,4 +1,6 @@
-
+* {
+  text-align: center;
+}
 
 /* CSS */
 .button-27 {
@@ -16,7 +18,7 @@
   line-height: normal;
   margin: 0;
   min-height: 60px;
-  min-width: 0;
+ width: 10%;
   outline: none;
   padding: 16px 24px;
   text-align: center;
