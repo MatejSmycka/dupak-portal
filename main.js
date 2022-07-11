@@ -1,6 +1,6 @@
 function main() {
 
-var url = "http://93.99.178.183:60607";
+var url = "http://93.99.178.183:60608";
 
 var xhr = new XMLHttpRequest();
 xhr.open("POST", url);
